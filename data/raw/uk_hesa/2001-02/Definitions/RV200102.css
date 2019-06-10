@@ -1,0 +1,35 @@
+body
+{
+	background-color: #ffffff;
+	font-family: sans-serif;
+	font-style: normal;
+	color: #000000;
+}
+table
+{
+	background-color: #ffffff;
+	font-family: sans-serif;
+	font-style: normal;
+	color: #000000;
+}
+.td.colwid
+{
+	width: 120.0px;
+}
+.cellbold
+{
+	font-weight:bold
+}
+
+.rowbold
+{
+	font-weight:bold
+}
+	
+
+OL.roman
+{
+	list-style-type: lower-roman;
+}
+
+

@@ -1,0 +1,189 @@
+/*
+BORDER STYLES  - bdr<top><right><bottom><left>
+*/
+
+.bdr0001 { 
+	border-left: 1pt solid black;
+	}
+.bdr0010 {
+	border-bottom: 1pt solid black;
+	}
+.bdr0011 {
+	border-left: 1pt solid black;
+	border-bottom: 1pt solid black;
+	}
+.bdr0100 {
+	border-right: 1pt solid black;
+	}
+.bdr0101 {
+	border-left: 1pt solid black;
+	border-right: 1pt solid black;
+	}
+.bdr0110 {
+	border-bottom: 1pt solid black;
+	border-right: 1pt solid black;
+	}
+.bdr0111 {
+	border-left: 1pt solid black;
+	border-bottom: 1pt solid black;
+	border-right: 1pt solid black;
+	}
+.bdr1000 {
+	border-top: 1pt solid black;
+	}
+.bdr1001 {
+	border-left: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+.bdr1010 {
+	border-bottom: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+.bdr1011 {
+	border-left: 1pt solid black;
+	border-bottom: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+.bdr1100 {
+	border-right: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+.bdr1101 {
+	border-left: 1pt solid black;
+	border-right: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+.bdr1110 {
+	border-bottom: 1pt solid black;
+	border-right: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+.bdr1111 {
+	border-left: 1pt solid black;
+	border-bottom: 1pt solid black;
+	border-right: 1pt solid black;
+	border-top: 1pt solid black;
+	}
+
+/*
+FONT STYLES
+*/
+
+.flnn8 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.flnn9 {
+	font: 9pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+
+.fcnn8 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frnn8 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.frnn9 {
+	font: 9pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+	
+.fcnn9 {
+	font: 9pt arial, verdana, sans-serif;
+	text-align: center;}
+	
+.flnb8 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcnb8 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frnb8 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.frnb9 {
+	font: bold 9pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flib12 {
+	font: italic bold 12pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.flin9 {
+	font: italic 9pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.flib9 {
+	font: italic bold 9pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.flnb12 {
+	font: bold 12pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.flnb9 {
+	font: bold 9pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcnb9 {
+	font: bold 9pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.fcib12 {
+	font: italic bold 12pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frib12 {
+	font: italic bold 12pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+	
+.frib9 {
+	font: italic bold 9pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.frin9 {
+	font: italic 9pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+
+body
+{
+	background-color: #ffffff;
+	font-family: sans-serif;
+	font-style: normal;
+	color: #000000;
+}
+
+.td.colwid
+{
+	width: 120.0px;
+}
+.cellbold
+{
+	font-weight:bold
+}
+
+.rowbold
+{
+	font-weight:bold
+}
+	
+
+OL.roman
+{
+	list-style-type: lower-roman;
+}
+
+	
+table {
+	border-spacing: 0px;
+}
+
+

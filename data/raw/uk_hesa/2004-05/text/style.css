@@ -1,0 +1,318 @@
+body
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+}
+
+p
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+}
+
+ul
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+}
+
+table
+{
+	width:100%;
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 8pt;
+	color: #000000;
+}
+
+td
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+}
+
+
+td.nowrap
+{
+	white-space: nowrap 
+}
+
+td.colwid5
+{
+	width: 5%;
+}
+
+td.colwid10
+{
+	width: 10%;
+}
+
+td.colwid100px
+{
+	width: 100px;
+}
+
+td.colwid75
+{
+	width: 75%;
+}
+
+
+h1	
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-weight: bold;
+	font-size: 18pt;
+	color: #000000;
+}
+
+h2	
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-weight: bold;
+	font-size: 16pt;
+	color: #000000;
+}
+
+h3
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-weight: bold;
+	font-size: 14pt;
+	color: #000000;
+}
+
+
+h4
+{
+	background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-weight: bold;
+	font-size: 12pt;
+	color: #000000;
+}
+
+ol
+	{
+  background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+	}
+
+ol.roman
+	{
+	list-style-type: lower-roman;
+  background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+	}
+
+ol.letters
+	{
+	list-style-type: lower-alpha;
+  background-color: #ffffff;
+	font-family: arial, verdana, sans-serif;
+	font-style: normal;
+	font-size: 11pt;
+	color: #000000;
+	}
+
+/*
+BORDER STYLES  - bdr<top><right><bottom><left>
+*/
+
+.bdr0001 { 
+	border-left: 1.5pt solid black;
+	}
+.bdr0010 {
+	border-bottom: 1.5pt solid black;
+	}
+.bdr0011 {
+	border-left: 1.5pt solid black;
+	border-bottom: 1.5pt solid black;
+	}
+.bdr0100 {
+	border-right: 1.5pt solid black;
+	}
+.bdr0101 {
+	border-left: 1.5pt solid black;
+	border-right: 1.5pt solid black;
+	}
+.bdr0110 {
+	border-bottom: 1.5pt solid black;
+	border-right: 1.5pt solid black;
+	}
+.bdr0111 {
+	border-left: 1.5pt solid black;
+	border-bottom: 1.5pt solid black;
+	border-right: 1.5pt solid black;
+	}
+.bdr1000 {
+	border-top: 1.5pt solid black;
+	}
+.bdr1001 {
+	border-left: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+.bdr1010 {
+	border-bottom: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+.bdr1011 {
+	border-left: 1.5pt solid black;
+	border-bottom: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+.bdr1100 {
+	border-right: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+.bdr1101 {
+	border-left: 1.5pt solid black;
+	border-right: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+.bdr1110 {
+	border-bottom: 1.5pt solid black;
+	border-right: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+.bdr1111 {
+	border-left: 1.5pt solid black;
+	border-bottom: 1.5pt solid black;
+	border-right: 1.5pt solid black;
+	border-top: 1.5pt solid black;
+	}
+
+/*
+FONT STYLES
+*/
+
+
+.flnn8 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcnn8 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frnn8 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flnb8 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcnb8 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frnb8 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flin8 {
+	font: italic 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcin8 {
+	font: italic 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frin8 {
+	font: italic 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flib8 {
+	font: italic bold 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcib8 {
+	font: italic bold 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frib8 {
+	font: italic bold 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+
+	
+.flnn7 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcnn7 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frnn7 {
+	font: 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flnb7 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcnb7 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frnb7 {
+	font: bold 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flin7 {
+	font: italic 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcin7 {
+	font: italic 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frin7 {
+	font: italic 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+.flib7 {
+	font: italic bold 8pt arial, verdana, sans-serif;
+	text-align: left;
+	}
+.fcib7 {
+	font: italic bold 8pt arial, verdana, sans-serif;
+	text-align: center;
+	}
+.frib7 {
+	font: italic bold 8pt arial, verdana, sans-serif;
+	text-align: right;
+	}
+
+table {
+	border-spacing: 0px;
+  border-collapse: collapse; 
+}
+
+body, table {
+  font: 20pt SYSTEM;
+}
