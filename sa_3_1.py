@@ -1,5 +1,6 @@
 from databaker.framework import *
 import sa_walk
+import feather
 
 files = [x for x in sa_walk.SA_files() if x.table=="3.1"]
 
@@ -23,12 +24,14 @@ for year, _, filename in files:
 
         dimensions = [
             HDimConst(DATAMARKER, 0),
-            HDimConst("Institution", institution)
+            HDimConst("Institution", institution),
             HDim(programme, "Programme", DIRECTLY, LEFT),
             HDim(profcat, "Personnel Category", DIRECTLY, ABOVE),
             HDimConst(TIME, YEAR)
         ]
 
         c1 = ConversionSegment(observations, dimensions)
+        df = c1.topandas()
+        feather.write_dataframe(df, f"feather/{YEAR}-3_1.feather") # TODO won't get all!
         print(c1.topandas())
 

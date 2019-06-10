@@ -1,3 +1,4 @@
 databaker==2.0.0
 pandas==0.24.2
 IPython==7.5.0
+feather-format=0.4.0
