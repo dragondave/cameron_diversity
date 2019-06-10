@@ -15,6 +15,8 @@ def SA_files():
                 table = re.search("[ _](3.\d)[ _.]", file).group(1)
             except:
                 print (file)
+            if str(filename).endswith(".rtf"):
+                continue
             yield File(year, table, filename)
 
-print (list(SA_files()))
+#print (list(SA_files()))

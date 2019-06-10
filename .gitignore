@@ -2,3 +2,4 @@ py3k
 105
 .ipynb_checkpoints/
 *.swp
+__pycache__/
