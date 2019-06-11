@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,927.0,0,2008,Year,University of Stellenbosch,,WHITE,1.0 Professional Staff     -Sub-total
+1,151.0,0,2008,Year,University of Stellenbosch,,COLOURED,1.0 Professional Staff     -Sub-total
+2,18.0,0,2008,Year,University of Stellenbosch,,INDIAN,1.0 Professional Staff     -Sub-total
+3,35.0,0,2008,Year,University of Stellenbosch,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,1131.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,643.0,0,2008,Year,University of Stellenbosch,MALE,,1.0 Professional Staff     -Sub-total
+7,488.0,0,2008,Year,University of Stellenbosch,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,726.0,0,2008,Year,University of Stellenbosch,,WHITE,   1.1 Instruction/Research Professional
+10,95.0,0,2008,Year,University of Stellenbosch,,COLOURED,   1.1 Instruction/Research Professional
+11,16.0,0,2008,Year,University of Stellenbosch,,INDIAN,   1.1 Instruction/Research Professional
+12,30.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   1.1 Instruction/Research Professional
+14,867.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,518.0,0,2008,Year,University of Stellenbosch,MALE,,   1.1 Instruction/Research Professional
+16,349.0,0,2008,Year,University of Stellenbosch,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   1.1 Instruction/Research Professional
+18,86.0,0,2008,Year,University of Stellenbosch,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,15.0,0,2008,Year,University of Stellenbosch,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,1.0,0,2008,Year,University of Stellenbosch,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,3.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,105.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,70.0,0,2008,Year,University of Stellenbosch,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,35.0,0,2008,Year,University of Stellenbosch,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,115.0,0,2008,Year,University of Stellenbosch,,WHITE,   1.3 Specialist/Support Professionals
+28,41.0,0,2008,Year,University of Stellenbosch,,COLOURED,   1.3 Specialist/Support Professionals
+29,1.0,0,2008,Year,University of Stellenbosch,,INDIAN,   1.3 Specialist/Support Professionals
+30,2.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,159.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,55.0,0,2008,Year,University of Stellenbosch,MALE,,   1.3 Specialist/Support Professionals
+34,104.0,0,2008,Year,University of Stellenbosch,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,668.0,0,2008,Year,University of Stellenbosch,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,713.0,0,2008,Year,University of Stellenbosch,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,3.0,0,2008,Year,University of Stellenbosch,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,62.0,0,2008,Year,University of Stellenbosch,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1446.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,604.0,0,2008,Year,University of Stellenbosch,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,842.0,0,2008,Year,University of Stellenbosch,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,128.0,0,2008,Year,University of Stellenbosch,,WHITE,   2.1 Technical Employees
+46,120.0,0,2008,Year,University of Stellenbosch,,COLOURED,   2.1 Technical Employees
+47,1.0,0,2008,Year,University of Stellenbosch,,INDIAN,   2.1 Technical Employees
+48,10.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   2.1 Technical Employees
+50,259.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   2.1 Technical Employees
+51,182.0,0,2008,Year,University of Stellenbosch,MALE,,   2.1 Technical Employees
+52,77.0,0,2008,Year,University of Stellenbosch,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   2.1 Technical Employees
+54,535.0,0,2008,Year,University of Stellenbosch,,WHITE,   2.2 Non-professional Administrative Employees
+55,331.0,0,2008,Year,University of Stellenbosch,,COLOURED,   2.2 Non-professional Administrative Employees
+56,2.0,0,2008,Year,University of Stellenbosch,,INDIAN,   2.2 Non-professional Administrative Employees
+57,18.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,886.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,219.0,0,2008,Year,University of Stellenbosch,MALE,,   2.2 Non-professional Administrative Employees
+61,667.0,0,2008,Year,University of Stellenbosch,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,2.0,0,2008,Year,University of Stellenbosch,,WHITE,   2.3 Crafts/Trades Employees
+64,11.0,0,2008,Year,University of Stellenbosch,,COLOURED,   2.3 Crafts/Trades Employees
+65,0.0,0,2008,Year,University of Stellenbosch,,INDIAN,   2.3 Crafts/Trades Employees
+66,0.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,13.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,13.0,0,2008,Year,University of Stellenbosch,MALE,,   2.3 Crafts/Trades Employees
+70,0.0,0,2008,Year,University of Stellenbosch,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,3.0,0,2008,Year,University of Stellenbosch,,WHITE,   2.4 Service\Employees
+73,251.0,0,2008,Year,University of Stellenbosch,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2008,Year,University of Stellenbosch,,INDIAN,   2.4 Service\Employees
+75,34.0,0,2008,Year,University of Stellenbosch,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,   2.4 Service\Employees
+77,288.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,   2.4 Service\Employees
+78,190.0,0,2008,Year,University of Stellenbosch,MALE,,   2.4 Service\Employees
+79,98.0,0,2008,Year,University of Stellenbosch,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2008,Year,University of Stellenbosch,,WHITE,3.0 Unknown
+82,0.0,0,2008,Year,University of Stellenbosch,,COLOURED,3.0 Unknown
+83,0.0,0,2008,Year,University of Stellenbosch,,INDIAN,3.0 Unknown
+84,0.0,0,2008,Year,University of Stellenbosch,,AFRICAN,3.0 Unknown
+85,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,3.0 Unknown
+86,0.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2008,Year,University of Stellenbosch,MALE,,3.0 Unknown
+88,0.0,0,2008,Year,University of Stellenbosch,FEMALE,,3.0 Unknown
+89,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,3.0 Unknown
+90,1595.0,0,2008,Year,University of Stellenbosch,,WHITE,9.9 TOTAL
+91,864.0,0,2008,Year,University of Stellenbosch,,COLOURED,9.9 TOTAL
+92,21.0,0,2008,Year,University of Stellenbosch,,INDIAN,9.9 TOTAL
+93,97.0,0,2008,Year,University of Stellenbosch,,AFRICAN,9.9 TOTAL
+94,0.0,0,2008,Year,University of Stellenbosch,,ALL OTHER,9.9 TOTAL
+95,2577.0,0,2008,Year,University of Stellenbosch,TOTAL,TOTAL,9.9 TOTAL
+96,1247.0,0,2008,Year,University of Stellenbosch,MALE,,9.9 TOTAL
+97,1330.0,0,2008,Year,University of Stellenbosch,FEMALE,,9.9 TOTAL
+98,0.0,0,2008,Year,University of Stellenbosch,UNKNOWN,,9.9 TOTAL

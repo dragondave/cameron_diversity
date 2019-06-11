@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,797.0,0,2009,Year,University of the Free State,,WHITE,1.0 Professional Staff     -Sub-total
+1,31.0,0,2009,Year,University of the Free State,,COLOURED,1.0 Professional Staff     -Sub-total
+2,10.0,0,2009,Year,University of the Free State,,INDIAN,1.0 Professional Staff     -Sub-total
+3,146.0,0,2009,Year,University of the Free State,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2009,Year,University of the Free State,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,984.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,499.0,0,2009,Year,University of the Free State,MALE,,1.0 Professional Staff     -Sub-total
+7,485.0,0,2009,Year,University of the Free State,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2009,Year,University of the Free State,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,627.0,0,2009,Year,University of the Free State,,WHITE,   1.1 Instruction/Research Professional
+10,22.0,0,2009,Year,University of the Free State,,COLOURED,   1.1 Instruction/Research Professional
+11,10.0,0,2009,Year,University of the Free State,,INDIAN,   1.1 Instruction/Research Professional
+12,120.0,0,2009,Year,University of the Free State,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   1.1 Instruction/Research Professional
+14,779.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,417.0,0,2009,Year,University of the Free State,MALE,,   1.1 Instruction/Research Professional
+16,362.0,0,2009,Year,University of the Free State,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   1.1 Instruction/Research Professional
+18,73.0,0,2009,Year,University of the Free State,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,6.0,0,2009,Year,University of the Free State,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,0.0,0,2009,Year,University of the Free State,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,13.0,0,2009,Year,University of the Free State,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,92.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,61.0,0,2009,Year,University of the Free State,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,31.0,0,2009,Year,University of the Free State,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,97.0,0,2009,Year,University of the Free State,,WHITE,   1.3 Specialist/Support Professionals
+28,3.0,0,2009,Year,University of the Free State,,COLOURED,   1.3 Specialist/Support Professionals
+29,0.0,0,2009,Year,University of the Free State,,INDIAN,   1.3 Specialist/Support Professionals
+30,13.0,0,2009,Year,University of the Free State,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,113.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,21.0,0,2009,Year,University of the Free State,MALE,,   1.3 Specialist/Support Professionals
+34,92.0,0,2009,Year,University of the Free State,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,491.0,0,2009,Year,University of the Free State,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,84.0,0,2009,Year,University of the Free State,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,5.0,0,2009,Year,University of the Free State,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,494.0,0,2009,Year,University of the Free State,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2009,Year,University of the Free State,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1074.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,382.0,0,2009,Year,University of the Free State,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,692.0,0,2009,Year,University of the Free State,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2009,Year,University of the Free State,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,27.0,0,2009,Year,University of the Free State,,WHITE,   2.1 Technical Employees
+46,3.0,0,2009,Year,University of the Free State,,COLOURED,   2.1 Technical Employees
+47,0.0,0,2009,Year,University of the Free State,,INDIAN,   2.1 Technical Employees
+48,14.0,0,2009,Year,University of the Free State,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   2.1 Technical Employees
+50,44.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   2.1 Technical Employees
+51,35.0,0,2009,Year,University of the Free State,MALE,,   2.1 Technical Employees
+52,9.0,0,2009,Year,University of the Free State,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   2.1 Technical Employees
+54,443.0,0,2009,Year,University of the Free State,,WHITE,   2.2 Non-professional Administrative Employees
+55,57.0,0,2009,Year,University of the Free State,,COLOURED,   2.2 Non-professional Administrative Employees
+56,5.0,0,2009,Year,University of the Free State,,INDIAN,   2.2 Non-professional Administrative Employees
+57,172.0,0,2009,Year,University of the Free State,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,677.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,175.0,0,2009,Year,University of the Free State,MALE,,   2.2 Non-professional Administrative Employees
+61,502.0,0,2009,Year,University of the Free State,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,13.0,0,2009,Year,University of the Free State,,WHITE,   2.3 Crafts/Trades Employees
+64,1.0,0,2009,Year,University of the Free State,,COLOURED,   2.3 Crafts/Trades Employees
+65,0.0,0,2009,Year,University of the Free State,,INDIAN,   2.3 Crafts/Trades Employees
+66,3.0,0,2009,Year,University of the Free State,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,17.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,15.0,0,2009,Year,University of the Free State,MALE,,   2.3 Crafts/Trades Employees
+70,2.0,0,2009,Year,University of the Free State,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,8.0,0,2009,Year,University of the Free State,,WHITE,   2.4 Service\Employees
+73,23.0,0,2009,Year,University of the Free State,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2009,Year,University of the Free State,,INDIAN,   2.4 Service\Employees
+75,305.0,0,2009,Year,University of the Free State,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2009,Year,University of the Free State,,ALL OTHER,   2.4 Service\Employees
+77,336.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,   2.4 Service\Employees
+78,157.0,0,2009,Year,University of the Free State,MALE,,   2.4 Service\Employees
+79,179.0,0,2009,Year,University of the Free State,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2009,Year,University of the Free State,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2009,Year,University of the Free State,,WHITE,3.0 Unknown
+82,0.0,0,2009,Year,University of the Free State,,COLOURED,3.0 Unknown
+83,0.0,0,2009,Year,University of the Free State,,INDIAN,3.0 Unknown
+84,0.0,0,2009,Year,University of the Free State,,AFRICAN,3.0 Unknown
+85,0.0,0,2009,Year,University of the Free State,,ALL OTHER,3.0 Unknown
+86,0.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2009,Year,University of the Free State,MALE,,3.0 Unknown
+88,0.0,0,2009,Year,University of the Free State,FEMALE,,3.0 Unknown
+89,0.0,0,2009,Year,University of the Free State,UNKNOWN,,3.0 Unknown
+90,1288.0,0,2009,Year,University of the Free State,,WHITE,9.9 TOTAL
+91,115.0,0,2009,Year,University of the Free State,,COLOURED,9.9 TOTAL
+92,15.0,0,2009,Year,University of the Free State,,INDIAN,9.9 TOTAL
+93,640.0,0,2009,Year,University of the Free State,,AFRICAN,9.9 TOTAL
+94,0.0,0,2009,Year,University of the Free State,,ALL OTHER,9.9 TOTAL
+95,2058.0,0,2009,Year,University of the Free State,TOTAL,TOTAL,9.9 TOTAL
+96,881.0,0,2009,Year,University of the Free State,MALE,,9.9 TOTAL
+97,1177.0,0,2009,Year,University of the Free State,FEMALE,,9.9 TOTAL
+98,0.0,0,2009,Year,University of the Free State,UNKNOWN,,9.9 TOTAL

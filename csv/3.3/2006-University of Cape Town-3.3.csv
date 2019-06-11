@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,893.0,0,2006,Year,University of Cape Town,,WHITE,1.0 Professional Staff     -Sub-total
+1,175.0,0,2006,Year,University of Cape Town,,COLOURED,1.0 Professional Staff     -Sub-total
+2,63.0,0,2006,Year,University of Cape Town,,INDIAN,1.0 Professional Staff     -Sub-total
+3,76.0,0,2006,Year,University of Cape Town,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,71.0,0,2006,Year,University of Cape Town,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,1278.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,762.0,0,2006,Year,University of Cape Town,MALE,,1.0 Professional Staff     -Sub-total
+7,516.0,0,2006,Year,University of Cape Town,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,635.0,0,2006,Year,University of Cape Town,,WHITE,   1.1 Instruction/Research Professional
+10,68.0,0,2006,Year,University of Cape Town,,COLOURED,   1.1 Instruction/Research Professional
+11,43.0,0,2006,Year,University of Cape Town,,INDIAN,   1.1 Instruction/Research Professional
+12,43.0,0,2006,Year,University of Cape Town,,AFRICAN,   1.1 Instruction/Research Professional
+13,62.0,0,2006,Year,University of Cape Town,,ALL OTHER,   1.1 Instruction/Research Professional
+14,851.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,559.0,0,2006,Year,University of Cape Town,MALE,,   1.1 Instruction/Research Professional
+16,292.0,0,2006,Year,University of Cape Town,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   1.1 Instruction/Research Professional
+18,43.0,0,2006,Year,University of Cape Town,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,6.0,0,2006,Year,University of Cape Town,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,6.0,0,2006,Year,University of Cape Town,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,4.0,0,2006,Year,University of Cape Town,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2006,Year,University of Cape Town,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,59.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,32.0,0,2006,Year,University of Cape Town,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,27.0,0,2006,Year,University of Cape Town,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,215.0,0,2006,Year,University of Cape Town,,WHITE,   1.3 Specialist/Support Professionals
+28,101.0,0,2006,Year,University of Cape Town,,COLOURED,   1.3 Specialist/Support Professionals
+29,14.0,0,2006,Year,University of Cape Town,,INDIAN,   1.3 Specialist/Support Professionals
+30,29.0,0,2006,Year,University of Cape Town,,AFRICAN,   1.3 Specialist/Support Professionals
+31,9.0,0,2006,Year,University of Cape Town,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,368.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,171.0,0,2006,Year,University of Cape Town,MALE,,   1.3 Specialist/Support Professionals
+34,197.0,0,2006,Year,University of Cape Town,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,367.0,0,2006,Year,University of Cape Town,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,783.0,0,2006,Year,University of Cape Town,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,42.0,0,2006,Year,University of Cape Town,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,220.0,0,2006,Year,University of Cape Town,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,29.0,0,2006,Year,University of Cape Town,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1441.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,513.0,0,2006,Year,University of Cape Town,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,928.0,0,2006,Year,University of Cape Town,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,109.0,0,2006,Year,University of Cape Town,,WHITE,   2.1 Technical Employees
+46,59.0,0,2006,Year,University of Cape Town,,COLOURED,   2.1 Technical Employees
+47,5.0,0,2006,Year,University of Cape Town,,INDIAN,   2.1 Technical Employees
+48,14.0,0,2006,Year,University of Cape Town,,AFRICAN,   2.1 Technical Employees
+49,4.0,0,2006,Year,University of Cape Town,,ALL OTHER,   2.1 Technical Employees
+50,191.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   2.1 Technical Employees
+51,114.0,0,2006,Year,University of Cape Town,MALE,,   2.1 Technical Employees
+52,77.0,0,2006,Year,University of Cape Town,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   2.1 Technical Employees
+54,255.0,0,2006,Year,University of Cape Town,,WHITE,   2.2 Non-professional Administrative Employees
+55,591.0,0,2006,Year,University of Cape Town,,COLOURED,   2.2 Non-professional Administrative Employees
+56,36.0,0,2006,Year,University of Cape Town,,INDIAN,   2.2 Non-professional Administrative Employees
+57,172.0,0,2006,Year,University of Cape Town,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,23.0,0,2006,Year,University of Cape Town,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,1077.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,283.0,0,2006,Year,University of Cape Town,MALE,,   2.2 Non-professional Administrative Employees
+61,794.0,0,2006,Year,University of Cape Town,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,2.0,0,2006,Year,University of Cape Town,,WHITE,   2.3 Crafts/Trades Employees
+64,27.0,0,2006,Year,University of Cape Town,,COLOURED,   2.3 Crafts/Trades Employees
+65,0.0,0,2006,Year,University of Cape Town,,INDIAN,   2.3 Crafts/Trades Employees
+66,6.0,0,2006,Year,University of Cape Town,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2006,Year,University of Cape Town,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,35.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,35.0,0,2006,Year,University of Cape Town,MALE,,   2.3 Crafts/Trades Employees
+70,0.0,0,2006,Year,University of Cape Town,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,1.0,0,2006,Year,University of Cape Town,,WHITE,   2.4 Service\Employees
+73,106.0,0,2006,Year,University of Cape Town,,COLOURED,   2.4 Service\Employees
+74,1.0,0,2006,Year,University of Cape Town,,INDIAN,   2.4 Service\Employees
+75,28.0,0,2006,Year,University of Cape Town,,AFRICAN,   2.4 Service\Employees
+76,2.0,0,2006,Year,University of Cape Town,,ALL OTHER,   2.4 Service\Employees
+77,138.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,   2.4 Service\Employees
+78,81.0,0,2006,Year,University of Cape Town,MALE,,   2.4 Service\Employees
+79,57.0,0,2006,Year,University of Cape Town,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2006,Year,University of Cape Town,,WHITE,3.0 Unknown
+82,0.0,0,2006,Year,University of Cape Town,,COLOURED,3.0 Unknown
+83,0.0,0,2006,Year,University of Cape Town,,INDIAN,3.0 Unknown
+84,0.0,0,2006,Year,University of Cape Town,,AFRICAN,3.0 Unknown
+85,0.0,0,2006,Year,University of Cape Town,,ALL OTHER,3.0 Unknown
+86,0.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2006,Year,University of Cape Town,MALE,,3.0 Unknown
+88,0.0,0,2006,Year,University of Cape Town,FEMALE,,3.0 Unknown
+89,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,3.0 Unknown
+90,1260.0,0,2006,Year,University of Cape Town,,WHITE,9.9 TOTAL
+91,958.0,0,2006,Year,University of Cape Town,,COLOURED,9.9 TOTAL
+92,105.0,0,2006,Year,University of Cape Town,,INDIAN,9.9 TOTAL
+93,296.0,0,2006,Year,University of Cape Town,,AFRICAN,9.9 TOTAL
+94,100.0,0,2006,Year,University of Cape Town,,ALL OTHER,9.9 TOTAL
+95,2719.0,0,2006,Year,University of Cape Town,TOTAL,TOTAL,9.9 TOTAL
+96,1275.0,0,2006,Year,University of Cape Town,MALE,,9.9 TOTAL
+97,1444.0,0,2006,Year,University of Cape Town,FEMALE,,9.9 TOTAL
+98,0.0,0,2006,Year,University of Cape Town,UNKNOWN,,9.9 TOTAL

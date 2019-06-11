@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,393.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,1.0 Professional Staff     -Sub-total
+1,336.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,1.0 Professional Staff     -Sub-total
+2,31.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,1.0 Professional Staff     -Sub-total
+3,182.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,942.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,536.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,1.0 Professional Staff     -Sub-total
+7,406.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,330.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   1.1 Instruction/Research Professional
+10,235.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   1.1 Instruction/Research Professional
+11,26.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   1.1 Instruction/Research Professional
+12,124.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   1.1 Instruction/Research Professional
+14,715.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,429.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   1.1 Instruction/Research Professional
+16,286.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   1.1 Instruction/Research Professional
+18,12.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,23.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,2.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,12.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,49.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,39.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,10.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,51.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   1.3 Specialist/Support Professionals
+28,78.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   1.3 Specialist/Support Professionals
+29,3.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   1.3 Specialist/Support Professionals
+30,46.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,178.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,68.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   1.3 Specialist/Support Professionals
+34,110.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,97.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,456.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,6.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,217.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,776.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,341.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,435.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,31.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   2.1 Technical Employees
+46,62.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   2.1 Technical Employees
+47,0.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   2.1 Technical Employees
+48,27.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   2.1 Technical Employees
+50,120.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   2.1 Technical Employees
+51,87.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   2.1 Technical Employees
+52,33.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   2.1 Technical Employees
+54,64.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   2.2 Non-professional Administrative Employees
+55,265.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   2.2 Non-professional Administrative Employees
+56,6.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   2.2 Non-professional Administrative Employees
+57,157.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,492.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,128.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   2.2 Non-professional Administrative Employees
+61,364.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,1.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   2.3 Crafts/Trades Employees
+64,14.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   2.3 Crafts/Trades Employees
+65,0.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   2.3 Crafts/Trades Employees
+66,0.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,15.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,15.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   2.3 Crafts/Trades Employees
+70,0.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,1.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,   2.4 Service\Employees
+73,115.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,   2.4 Service\Employees
+75,33.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,   2.4 Service\Employees
+77,149.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,   2.4 Service\Employees
+78,111.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,   2.4 Service\Employees
+79,38.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,3.0 Unknown
+82,0.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,3.0 Unknown
+83,0.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,3.0 Unknown
+84,0.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,3.0 Unknown
+85,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,3.0 Unknown
+86,0.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,3.0 Unknown
+88,0.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,3.0 Unknown
+89,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,3.0 Unknown
+90,490.0,0,2009,Year,Cape Peninsula University of Technology,,WHITE,9.9 TOTAL
+91,792.0,0,2009,Year,Cape Peninsula University of Technology,,COLOURED,9.9 TOTAL
+92,37.0,0,2009,Year,Cape Peninsula University of Technology,,INDIAN,9.9 TOTAL
+93,399.0,0,2009,Year,Cape Peninsula University of Technology,,AFRICAN,9.9 TOTAL
+94,0.0,0,2009,Year,Cape Peninsula University of Technology,,ALL OTHER,9.9 TOTAL
+95,1718.0,0,2009,Year,Cape Peninsula University of Technology,TOTAL,TOTAL,9.9 TOTAL
+96,877.0,0,2009,Year,Cape Peninsula University of Technology,MALE,,9.9 TOTAL
+97,841.0,0,2009,Year,Cape Peninsula University of Technology,FEMALE,,9.9 TOTAL
+98,0.0,0,2009,Year,Cape Peninsula University of Technology,UNKNOWN,,9.9 TOTAL

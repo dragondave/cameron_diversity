@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,801.0,0,2007,Year,University of Witwatersrand,,WHITE,1.0 Professional Staff     -Sub-total
+1,38.0,0,2007,Year,University of Witwatersrand,,COLOURED,1.0 Professional Staff     -Sub-total
+2,113.0,0,2007,Year,University of Witwatersrand,,INDIAN,1.0 Professional Staff     -Sub-total
+3,233.0,0,2007,Year,University of Witwatersrand,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,1185.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,611.0,0,2007,Year,University of Witwatersrand,MALE,,1.0 Professional Staff     -Sub-total
+7,574.0,0,2007,Year,University of Witwatersrand,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,707.0,0,2007,Year,University of Witwatersrand,,WHITE,   1.1 Instruction/Research Professional
+10,26.0,0,2007,Year,University of Witwatersrand,,COLOURED,   1.1 Instruction/Research Professional
+11,79.0,0,2007,Year,University of Witwatersrand,,INDIAN,   1.1 Instruction/Research Professional
+12,177.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   1.1 Instruction/Research Professional
+14,989.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,525.0,0,2007,Year,University of Witwatersrand,MALE,,   1.1 Instruction/Research Professional
+16,464.0,0,2007,Year,University of Witwatersrand,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   1.1 Instruction/Research Professional
+18,7.0,0,2007,Year,University of Witwatersrand,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,1.0,0,2007,Year,University of Witwatersrand,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,4.0,0,2007,Year,University of Witwatersrand,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,4.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,16.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,7.0,0,2007,Year,University of Witwatersrand,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,9.0,0,2007,Year,University of Witwatersrand,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,87.0,0,2007,Year,University of Witwatersrand,,WHITE,   1.3 Specialist/Support Professionals
+28,11.0,0,2007,Year,University of Witwatersrand,,COLOURED,   1.3 Specialist/Support Professionals
+29,30.0,0,2007,Year,University of Witwatersrand,,INDIAN,   1.3 Specialist/Support Professionals
+30,52.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,180.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,79.0,0,2007,Year,University of Witwatersrand,MALE,,   1.3 Specialist/Support Professionals
+34,101.0,0,2007,Year,University of Witwatersrand,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,389.0,0,2007,Year,University of Witwatersrand,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,95.0,0,2007,Year,University of Witwatersrand,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,137.0,0,2007,Year,University of Witwatersrand,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,884.0,0,2007,Year,University of Witwatersrand,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,1.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1506.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,585.0,0,2007,Year,University of Witwatersrand,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,921.0,0,2007,Year,University of Witwatersrand,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,84.0,0,2007,Year,University of Witwatersrand,,WHITE,   2.1 Technical Employees
+46,8.0,0,2007,Year,University of Witwatersrand,,COLOURED,   2.1 Technical Employees
+47,11.0,0,2007,Year,University of Witwatersrand,,INDIAN,   2.1 Technical Employees
+48,98.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   2.1 Technical Employees
+50,201.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   2.1 Technical Employees
+51,124.0,0,2007,Year,University of Witwatersrand,MALE,,   2.1 Technical Employees
+52,77.0,0,2007,Year,University of Witwatersrand,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   2.1 Technical Employees
+54,304.0,0,2007,Year,University of Witwatersrand,,WHITE,   2.2 Non-professional Administrative Employees
+55,83.0,0,2007,Year,University of Witwatersrand,,COLOURED,   2.2 Non-professional Administrative Employees
+56,125.0,0,2007,Year,University of Witwatersrand,,INDIAN,   2.2 Non-professional Administrative Employees
+57,434.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,1.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,947.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,211.0,0,2007,Year,University of Witwatersrand,MALE,,   2.2 Non-professional Administrative Employees
+61,736.0,0,2007,Year,University of Witwatersrand,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,1.0,0,2007,Year,University of Witwatersrand,,WHITE,   2.3 Crafts/Trades Employees
+64,0.0,0,2007,Year,University of Witwatersrand,,COLOURED,   2.3 Crafts/Trades Employees
+65,1.0,0,2007,Year,University of Witwatersrand,,INDIAN,   2.3 Crafts/Trades Employees
+66,8.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,10.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,5.0,0,2007,Year,University of Witwatersrand,MALE,,   2.3 Crafts/Trades Employees
+70,5.0,0,2007,Year,University of Witwatersrand,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,0.0,0,2007,Year,University of Witwatersrand,,WHITE,   2.4 Service\Employees
+73,4.0,0,2007,Year,University of Witwatersrand,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2007,Year,University of Witwatersrand,,INDIAN,   2.4 Service\Employees
+75,344.0,0,2007,Year,University of Witwatersrand,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,   2.4 Service\Employees
+77,348.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,   2.4 Service\Employees
+78,245.0,0,2007,Year,University of Witwatersrand,MALE,,   2.4 Service\Employees
+79,103.0,0,2007,Year,University of Witwatersrand,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2007,Year,University of Witwatersrand,,WHITE,3.0 Unknown
+82,0.0,0,2007,Year,University of Witwatersrand,,COLOURED,3.0 Unknown
+83,0.0,0,2007,Year,University of Witwatersrand,,INDIAN,3.0 Unknown
+84,0.0,0,2007,Year,University of Witwatersrand,,AFRICAN,3.0 Unknown
+85,0.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,3.0 Unknown
+86,0.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2007,Year,University of Witwatersrand,MALE,,3.0 Unknown
+88,0.0,0,2007,Year,University of Witwatersrand,FEMALE,,3.0 Unknown
+89,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,3.0 Unknown
+90,1190.0,0,2007,Year,University of Witwatersrand,,WHITE,9.9 TOTAL
+91,133.0,0,2007,Year,University of Witwatersrand,,COLOURED,9.9 TOTAL
+92,250.0,0,2007,Year,University of Witwatersrand,,INDIAN,9.9 TOTAL
+93,1117.0,0,2007,Year,University of Witwatersrand,,AFRICAN,9.9 TOTAL
+94,1.0,0,2007,Year,University of Witwatersrand,,ALL OTHER,9.9 TOTAL
+95,2691.0,0,2007,Year,University of Witwatersrand,TOTAL,TOTAL,9.9 TOTAL
+96,1196.0,0,2007,Year,University of Witwatersrand,MALE,,9.9 TOTAL
+97,1495.0,0,2007,Year,University of Witwatersrand,FEMALE,,9.9 TOTAL
+98,0.0,0,2007,Year,University of Witwatersrand,UNKNOWN,,9.9 TOTAL

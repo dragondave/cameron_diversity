@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,1736.0,0,2005,Year,University of Pretoria,,WHITE,1.0 Professional Staff     -Sub-total
+1,41.0,0,2005,Year,University of Pretoria,,COLOURED,1.0 Professional Staff     -Sub-total
+2,54.0,0,2005,Year,University of Pretoria,,INDIAN,1.0 Professional Staff     -Sub-total
+3,237.0,0,2005,Year,University of Pretoria,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,1.0,0,2005,Year,University of Pretoria,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,2069.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,1098.0,0,2005,Year,University of Pretoria,MALE,,1.0 Professional Staff     -Sub-total
+7,971.0,0,2005,Year,University of Pretoria,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,1337.0,0,2005,Year,University of Pretoria,,WHITE,   1.1 Instruction/Research Professional
+10,25.0,0,2005,Year,University of Pretoria,,COLOURED,   1.1 Instruction/Research Professional
+11,50.0,0,2005,Year,University of Pretoria,,INDIAN,   1.1 Instruction/Research Professional
+12,162.0,0,2005,Year,University of Pretoria,,AFRICAN,   1.1 Instruction/Research Professional
+13,1.0,0,2005,Year,University of Pretoria,,ALL OTHER,   1.1 Instruction/Research Professional
+14,1575.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,863.0,0,2005,Year,University of Pretoria,MALE,,   1.1 Instruction/Research Professional
+16,712.0,0,2005,Year,University of Pretoria,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   1.1 Instruction/Research Professional
+18,196.0,0,2005,Year,University of Pretoria,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,3.0,0,2005,Year,University of Pretoria,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,2.0,0,2005,Year,University of Pretoria,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,23.0,0,2005,Year,University of Pretoria,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,224.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,116.0,0,2005,Year,University of Pretoria,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,108.0,0,2005,Year,University of Pretoria,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,203.0,0,2005,Year,University of Pretoria,,WHITE,   1.3 Specialist/Support Professionals
+28,13.0,0,2005,Year,University of Pretoria,,COLOURED,   1.3 Specialist/Support Professionals
+29,2.0,0,2005,Year,University of Pretoria,,INDIAN,   1.3 Specialist/Support Professionals
+30,52.0,0,2005,Year,University of Pretoria,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,270.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,119.0,0,2005,Year,University of Pretoria,MALE,,   1.3 Specialist/Support Professionals
+34,151.0,0,2005,Year,University of Pretoria,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,669.0,0,2005,Year,University of Pretoria,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,31.0,0,2005,Year,University of Pretoria,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,10.0,0,2005,Year,University of Pretoria,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,694.0,0,2005,Year,University of Pretoria,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1404.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,571.0,0,2005,Year,University of Pretoria,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,833.0,0,2005,Year,University of Pretoria,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,60.0,0,2005,Year,University of Pretoria,,WHITE,   2.1 Technical Employees
+46,1.0,0,2005,Year,University of Pretoria,,COLOURED,   2.1 Technical Employees
+47,1.0,0,2005,Year,University of Pretoria,,INDIAN,   2.1 Technical Employees
+48,28.0,0,2005,Year,University of Pretoria,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,   2.1 Technical Employees
+50,90.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   2.1 Technical Employees
+51,33.0,0,2005,Year,University of Pretoria,MALE,,   2.1 Technical Employees
+52,57.0,0,2005,Year,University of Pretoria,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   2.1 Technical Employees
+54,520.0,0,2005,Year,University of Pretoria,,WHITE,   2.2 Non-professional Administrative Employees
+55,23.0,0,2005,Year,University of Pretoria,,COLOURED,   2.2 Non-professional Administrative Employees
+56,7.0,0,2005,Year,University of Pretoria,,INDIAN,   2.2 Non-professional Administrative Employees
+57,155.0,0,2005,Year,University of Pretoria,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,705.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,110.0,0,2005,Year,University of Pretoria,MALE,,   2.2 Non-professional Administrative Employees
+61,595.0,0,2005,Year,University of Pretoria,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,27.0,0,2005,Year,University of Pretoria,,WHITE,   2.3 Crafts/Trades Employees
+64,1.0,0,2005,Year,University of Pretoria,,COLOURED,   2.3 Crafts/Trades Employees
+65,1.0,0,2005,Year,University of Pretoria,,INDIAN,   2.3 Crafts/Trades Employees
+66,5.0,0,2005,Year,University of Pretoria,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,34.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,29.0,0,2005,Year,University of Pretoria,MALE,,   2.3 Crafts/Trades Employees
+70,5.0,0,2005,Year,University of Pretoria,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,62.0,0,2005,Year,University of Pretoria,,WHITE,   2.4 Service\Employees
+73,6.0,0,2005,Year,University of Pretoria,,COLOURED,   2.4 Service\Employees
+74,1.0,0,2005,Year,University of Pretoria,,INDIAN,   2.4 Service\Employees
+75,506.0,0,2005,Year,University of Pretoria,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,   2.4 Service\Employees
+77,575.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,   2.4 Service\Employees
+78,399.0,0,2005,Year,University of Pretoria,MALE,,   2.4 Service\Employees
+79,176.0,0,2005,Year,University of Pretoria,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2005,Year,University of Pretoria,,WHITE,3.0 Unknown
+82,0.0,0,2005,Year,University of Pretoria,,COLOURED,3.0 Unknown
+83,0.0,0,2005,Year,University of Pretoria,,INDIAN,3.0 Unknown
+84,0.0,0,2005,Year,University of Pretoria,,AFRICAN,3.0 Unknown
+85,0.0,0,2005,Year,University of Pretoria,,ALL OTHER,3.0 Unknown
+86,0.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2005,Year,University of Pretoria,MALE,,3.0 Unknown
+88,0.0,0,2005,Year,University of Pretoria,FEMALE,,3.0 Unknown
+89,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,3.0 Unknown
+90,2405.0,0,2005,Year,University of Pretoria,,WHITE,9.9 TOTAL
+91,72.0,0,2005,Year,University of Pretoria,,COLOURED,9.9 TOTAL
+92,64.0,0,2005,Year,University of Pretoria,,INDIAN,9.9 TOTAL
+93,931.0,0,2005,Year,University of Pretoria,,AFRICAN,9.9 TOTAL
+94,1.0,0,2005,Year,University of Pretoria,,ALL OTHER,9.9 TOTAL
+95,3473.0,0,2005,Year,University of Pretoria,TOTAL,TOTAL,9.9 TOTAL
+96,1669.0,0,2005,Year,University of Pretoria,MALE,,9.9 TOTAL
+97,1804.0,0,2005,Year,University of Pretoria,FEMALE,,9.9 TOTAL
+98,0.0,0,2005,Year,University of Pretoria,UNKNOWN,,9.9 TOTAL

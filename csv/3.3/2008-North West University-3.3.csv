@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,966.0,0,2008,Year,North West University,,WHITE,1.0 Professional Staff     -Sub-total
+1,28.0,0,2008,Year,North West University,,COLOURED,1.0 Professional Staff     -Sub-total
+2,13.0,0,2008,Year,North West University,,INDIAN,1.0 Professional Staff     -Sub-total
+3,299.0,0,2008,Year,North West University,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,1.0,0,2008,Year,North West University,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,1307.0,0,2008,Year,North West University,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,758.0,0,2008,Year,North West University,MALE,,1.0 Professional Staff     -Sub-total
+7,549.0,0,2008,Year,North West University,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2008,Year,North West University,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,666.0,0,2008,Year,North West University,,WHITE,   1.1 Instruction/Research Professional
+10,20.0,0,2008,Year,North West University,,COLOURED,   1.1 Instruction/Research Professional
+11,10.0,0,2008,Year,North West University,,INDIAN,   1.1 Instruction/Research Professional
+12,230.0,0,2008,Year,North West University,,AFRICAN,   1.1 Instruction/Research Professional
+13,1.0,0,2008,Year,North West University,,ALL OTHER,   1.1 Instruction/Research Professional
+14,927.0,0,2008,Year,North West University,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,539.0,0,2008,Year,North West University,MALE,,   1.1 Instruction/Research Professional
+16,388.0,0,2008,Year,North West University,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2008,Year,North West University,UNKNOWN,,   1.1 Instruction/Research Professional
+18,84.0,0,2008,Year,North West University,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,2.0,0,2008,Year,North West University,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,0.0,0,2008,Year,North West University,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,25.0,0,2008,Year,North West University,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2008,Year,North West University,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,111.0,0,2008,Year,North West University,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,88.0,0,2008,Year,North West University,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,23.0,0,2008,Year,North West University,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2008,Year,North West University,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,216.0,0,2008,Year,North West University,,WHITE,   1.3 Specialist/Support Professionals
+28,6.0,0,2008,Year,North West University,,COLOURED,   1.3 Specialist/Support Professionals
+29,3.0,0,2008,Year,North West University,,INDIAN,   1.3 Specialist/Support Professionals
+30,44.0,0,2008,Year,North West University,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2008,Year,North West University,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,269.0,0,2008,Year,North West University,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,131.0,0,2008,Year,North West University,MALE,,   1.3 Specialist/Support Professionals
+34,138.0,0,2008,Year,North West University,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2008,Year,North West University,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,757.0,0,2008,Year,North West University,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,43.0,0,2008,Year,North West University,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,9.0,0,2008,Year,North West University,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,637.0,0,2008,Year,North West University,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2008,Year,North West University,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1446.0,0,2008,Year,North West University,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,483.0,0,2008,Year,North West University,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,963.0,0,2008,Year,North West University,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2008,Year,North West University,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,137.0,0,2008,Year,North West University,,WHITE,   2.1 Technical Employees
+46,3.0,0,2008,Year,North West University,,COLOURED,   2.1 Technical Employees
+47,2.0,0,2008,Year,North West University,,INDIAN,   2.1 Technical Employees
+48,68.0,0,2008,Year,North West University,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2008,Year,North West University,,ALL OTHER,   2.1 Technical Employees
+50,210.0,0,2008,Year,North West University,TOTAL,TOTAL,   2.1 Technical Employees
+51,120.0,0,2008,Year,North West University,MALE,,   2.1 Technical Employees
+52,90.0,0,2008,Year,North West University,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2008,Year,North West University,UNKNOWN,,   2.1 Technical Employees
+54,579.0,0,2008,Year,North West University,,WHITE,   2.2 Non-professional Administrative Employees
+55,31.0,0,2008,Year,North West University,,COLOURED,   2.2 Non-professional Administrative Employees
+56,6.0,0,2008,Year,North West University,,INDIAN,   2.2 Non-professional Administrative Employees
+57,226.0,0,2008,Year,North West University,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2008,Year,North West University,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,842.0,0,2008,Year,North West University,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,144.0,0,2008,Year,North West University,MALE,,   2.2 Non-professional Administrative Employees
+61,698.0,0,2008,Year,North West University,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2008,Year,North West University,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,22.0,0,2008,Year,North West University,,WHITE,   2.3 Crafts/Trades Employees
+64,0.0,0,2008,Year,North West University,,COLOURED,   2.3 Crafts/Trades Employees
+65,1.0,0,2008,Year,North West University,,INDIAN,   2.3 Crafts/Trades Employees
+66,11.0,0,2008,Year,North West University,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2008,Year,North West University,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,34.0,0,2008,Year,North West University,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,29.0,0,2008,Year,North West University,MALE,,   2.3 Crafts/Trades Employees
+70,5.0,0,2008,Year,North West University,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2008,Year,North West University,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,19.0,0,2008,Year,North West University,,WHITE,   2.4 Service\Employees
+73,9.0,0,2008,Year,North West University,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2008,Year,North West University,,INDIAN,   2.4 Service\Employees
+75,332.0,0,2008,Year,North West University,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2008,Year,North West University,,ALL OTHER,   2.4 Service\Employees
+77,360.0,0,2008,Year,North West University,TOTAL,TOTAL,   2.4 Service\Employees
+78,190.0,0,2008,Year,North West University,MALE,,   2.4 Service\Employees
+79,170.0,0,2008,Year,North West University,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2008,Year,North West University,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2008,Year,North West University,,WHITE,3.0 Unknown
+82,0.0,0,2008,Year,North West University,,COLOURED,3.0 Unknown
+83,0.0,0,2008,Year,North West University,,INDIAN,3.0 Unknown
+84,0.0,0,2008,Year,North West University,,AFRICAN,3.0 Unknown
+85,0.0,0,2008,Year,North West University,,ALL OTHER,3.0 Unknown
+86,0.0,0,2008,Year,North West University,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2008,Year,North West University,MALE,,3.0 Unknown
+88,0.0,0,2008,Year,North West University,FEMALE,,3.0 Unknown
+89,0.0,0,2008,Year,North West University,UNKNOWN,,3.0 Unknown
+90,1723.0,0,2008,Year,North West University,,WHITE,9.9 TOTAL
+91,71.0,0,2008,Year,North West University,,COLOURED,9.9 TOTAL
+92,22.0,0,2008,Year,North West University,,INDIAN,9.9 TOTAL
+93,936.0,0,2008,Year,North West University,,AFRICAN,9.9 TOTAL
+94,1.0,0,2008,Year,North West University,,ALL OTHER,9.9 TOTAL
+95,2753.0,0,2008,Year,North West University,TOTAL,TOTAL,9.9 TOTAL
+96,1241.0,0,2008,Year,North West University,MALE,,9.9 TOTAL
+97,1512.0,0,2008,Year,North West University,FEMALE,,9.9 TOTAL
+98,0.0,0,2008,Year,North West University,UNKNOWN,,9.9 TOTAL

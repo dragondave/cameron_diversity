@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,783.0,0,2007,Year,University of Johannesburg,,WHITE,1.0 Professional Staff     -Sub-total
+1,43.0,0,2007,Year,University of Johannesburg,,COLOURED,1.0 Professional Staff     -Sub-total
+2,76.0,0,2007,Year,University of Johannesburg,,INDIAN,1.0 Professional Staff     -Sub-total
+3,203.0,0,2007,Year,University of Johannesburg,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,1105.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,608.0,0,2007,Year,University of Johannesburg,MALE,,1.0 Professional Staff     -Sub-total
+7,497.0,0,2007,Year,University of Johannesburg,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,628.0,0,2007,Year,University of Johannesburg,,WHITE,   1.1 Instruction/Research Professional
+10,26.0,0,2007,Year,University of Johannesburg,,COLOURED,   1.1 Instruction/Research Professional
+11,53.0,0,2007,Year,University of Johannesburg,,INDIAN,   1.1 Instruction/Research Professional
+12,164.0,0,2007,Year,University of Johannesburg,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   1.1 Instruction/Research Professional
+14,871.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,489.0,0,2007,Year,University of Johannesburg,MALE,,   1.1 Instruction/Research Professional
+16,382.0,0,2007,Year,University of Johannesburg,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   1.1 Instruction/Research Professional
+18,24.0,0,2007,Year,University of Johannesburg,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,4.0,0,2007,Year,University of Johannesburg,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,5.0,0,2007,Year,University of Johannesburg,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,5.0,0,2007,Year,University of Johannesburg,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,38.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,25.0,0,2007,Year,University of Johannesburg,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,13.0,0,2007,Year,University of Johannesburg,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,131.0,0,2007,Year,University of Johannesburg,,WHITE,   1.3 Specialist/Support Professionals
+28,13.0,0,2007,Year,University of Johannesburg,,COLOURED,   1.3 Specialist/Support Professionals
+29,18.0,0,2007,Year,University of Johannesburg,,INDIAN,   1.3 Specialist/Support Professionals
+30,34.0,0,2007,Year,University of Johannesburg,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,196.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,94.0,0,2007,Year,University of Johannesburg,MALE,,   1.3 Specialist/Support Professionals
+34,102.0,0,2007,Year,University of Johannesburg,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,477.0,0,2007,Year,University of Johannesburg,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,95.0,0,2007,Year,University of Johannesburg,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,32.0,0,2007,Year,University of Johannesburg,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,754.0,0,2007,Year,University of Johannesburg,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1358.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,665.0,0,2007,Year,University of Johannesburg,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,693.0,0,2007,Year,University of Johannesburg,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,43.0,0,2007,Year,University of Johannesburg,,WHITE,   2.1 Technical Employees
+46,5.0,0,2007,Year,University of Johannesburg,,COLOURED,   2.1 Technical Employees
+47,1.0,0,2007,Year,University of Johannesburg,,INDIAN,   2.1 Technical Employees
+48,34.0,0,2007,Year,University of Johannesburg,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   2.1 Technical Employees
+50,83.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   2.1 Technical Employees
+51,68.0,0,2007,Year,University of Johannesburg,MALE,,   2.1 Technical Employees
+52,15.0,0,2007,Year,University of Johannesburg,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   2.1 Technical Employees
+54,396.0,0,2007,Year,University of Johannesburg,,WHITE,   2.2 Non-professional Administrative Employees
+55,80.0,0,2007,Year,University of Johannesburg,,COLOURED,   2.2 Non-professional Administrative Employees
+56,31.0,0,2007,Year,University of Johannesburg,,INDIAN,   2.2 Non-professional Administrative Employees
+57,264.0,0,2007,Year,University of Johannesburg,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,771.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,210.0,0,2007,Year,University of Johannesburg,MALE,,   2.2 Non-professional Administrative Employees
+61,561.0,0,2007,Year,University of Johannesburg,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,13.0,0,2007,Year,University of Johannesburg,,WHITE,   2.3 Crafts/Trades Employees
+64,5.0,0,2007,Year,University of Johannesburg,,COLOURED,   2.3 Crafts/Trades Employees
+65,0.0,0,2007,Year,University of Johannesburg,,INDIAN,   2.3 Crafts/Trades Employees
+66,4.0,0,2007,Year,University of Johannesburg,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,22.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,20.0,0,2007,Year,University of Johannesburg,MALE,,   2.3 Crafts/Trades Employees
+70,2.0,0,2007,Year,University of Johannesburg,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,25.0,0,2007,Year,University of Johannesburg,,WHITE,   2.4 Service\Employees
+73,5.0,0,2007,Year,University of Johannesburg,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2007,Year,University of Johannesburg,,INDIAN,   2.4 Service\Employees
+75,452.0,0,2007,Year,University of Johannesburg,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,   2.4 Service\Employees
+77,482.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,   2.4 Service\Employees
+78,367.0,0,2007,Year,University of Johannesburg,MALE,,   2.4 Service\Employees
+79,115.0,0,2007,Year,University of Johannesburg,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2007,Year,University of Johannesburg,,WHITE,3.0 Unknown
+82,0.0,0,2007,Year,University of Johannesburg,,COLOURED,3.0 Unknown
+83,0.0,0,2007,Year,University of Johannesburg,,INDIAN,3.0 Unknown
+84,0.0,0,2007,Year,University of Johannesburg,,AFRICAN,3.0 Unknown
+85,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,3.0 Unknown
+86,0.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2007,Year,University of Johannesburg,MALE,,3.0 Unknown
+88,0.0,0,2007,Year,University of Johannesburg,FEMALE,,3.0 Unknown
+89,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,3.0 Unknown
+90,1260.0,0,2007,Year,University of Johannesburg,,WHITE,9.9 TOTAL
+91,138.0,0,2007,Year,University of Johannesburg,,COLOURED,9.9 TOTAL
+92,108.0,0,2007,Year,University of Johannesburg,,INDIAN,9.9 TOTAL
+93,957.0,0,2007,Year,University of Johannesburg,,AFRICAN,9.9 TOTAL
+94,0.0,0,2007,Year,University of Johannesburg,,ALL OTHER,9.9 TOTAL
+95,2463.0,0,2007,Year,University of Johannesburg,TOTAL,TOTAL,9.9 TOTAL
+96,1273.0,0,2007,Year,University of Johannesburg,MALE,,9.9 TOTAL
+97,1190.0,0,2007,Year,University of Johannesburg,FEMALE,,9.9 TOTAL
+98,0.0,0,2007,Year,University of Johannesburg,UNKNOWN,,9.9 TOTAL

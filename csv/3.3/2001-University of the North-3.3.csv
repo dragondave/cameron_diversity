@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,122.0,0,2001,Year,University of the North,,WHITE,1.0 Professional Staff     -Sub-total
+1,6.0,0,2001,Year,University of the North,,COLOURED,1.0 Professional Staff     -Sub-total
+2,9.0,0,2001,Year,University of the North,,INDIAN,1.0 Professional Staff     -Sub-total
+3,318.0,0,2001,Year,University of the North,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2001,Year,University of the North,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,455.0,0,2001,Year,University of the North,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,318.0,0,2001,Year,University of the North,MALE,,1.0 Professional Staff     -Sub-total
+7,137.0,0,2001,Year,University of the North,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2001,Year,University of the North,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,114.0,0,2001,Year,University of the North,,WHITE,   1.1 Instruction/Research Professional
+10,5.0,0,2001,Year,University of the North,,COLOURED,   1.1 Instruction/Research Professional
+11,9.0,0,2001,Year,University of the North,,INDIAN,   1.1 Instruction/Research Professional
+12,260.0,0,2001,Year,University of the North,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2001,Year,University of the North,,ALL OTHER,   1.1 Instruction/Research Professional
+14,388.0,0,2001,Year,University of the North,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,276.0,0,2001,Year,University of the North,MALE,,   1.1 Instruction/Research Professional
+16,112.0,0,2001,Year,University of the North,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2001,Year,University of the North,UNKNOWN,,   1.1 Instruction/Research Professional
+18,6.0,0,2001,Year,University of the North,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,0.0,0,2001,Year,University of the North,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,0.0,0,2001,Year,University of the North,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,15.0,0,2001,Year,University of the North,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2001,Year,University of the North,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,21.0,0,2001,Year,University of the North,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,19.0,0,2001,Year,University of the North,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,2.0,0,2001,Year,University of the North,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2001,Year,University of the North,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,2.0,0,2001,Year,University of the North,,WHITE,   1.3 Specialist/Support Professionals
+28,1.0,0,2001,Year,University of the North,,COLOURED,   1.3 Specialist/Support Professionals
+29,0.0,0,2001,Year,University of the North,,INDIAN,   1.3 Specialist/Support Professionals
+30,43.0,0,2001,Year,University of the North,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2001,Year,University of the North,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,46.0,0,2001,Year,University of the North,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,23.0,0,2001,Year,University of the North,MALE,,   1.3 Specialist/Support Professionals
+34,23.0,0,2001,Year,University of the North,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2001,Year,University of the North,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,59.0,0,2001,Year,University of the North,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,4.0,0,2001,Year,University of the North,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,3.0,0,2001,Year,University of the North,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,1150.0,0,2001,Year,University of the North,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2001,Year,University of the North,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1216.0,0,2001,Year,University of the North,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,628.0,0,2001,Year,University of the North,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,588.0,0,2001,Year,University of the North,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2001,Year,University of the North,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,18.0,0,2001,Year,University of the North,,WHITE,   2.1 Technical Employees
+46,1.0,0,2001,Year,University of the North,,COLOURED,   2.1 Technical Employees
+47,2.0,0,2001,Year,University of the North,,INDIAN,   2.1 Technical Employees
+48,38.0,0,2001,Year,University of the North,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2001,Year,University of the North,,ALL OTHER,   2.1 Technical Employees
+50,59.0,0,2001,Year,University of the North,TOTAL,TOTAL,   2.1 Technical Employees
+51,41.0,0,2001,Year,University of the North,MALE,,   2.1 Technical Employees
+52,18.0,0,2001,Year,University of the North,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2001,Year,University of the North,UNKNOWN,,   2.1 Technical Employees
+54,34.0,0,2001,Year,University of the North,,WHITE,   2.2 Non-professional Administrative Employees
+55,3.0,0,2001,Year,University of the North,,COLOURED,   2.2 Non-professional Administrative Employees
+56,0.0,0,2001,Year,University of the North,,INDIAN,   2.2 Non-professional Administrative Employees
+57,399.0,0,2001,Year,University of the North,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2001,Year,University of the North,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,436.0,0,2001,Year,University of the North,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,236.0,0,2001,Year,University of the North,MALE,,   2.2 Non-professional Administrative Employees
+61,200.0,0,2001,Year,University of the North,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2001,Year,University of the North,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,7.0,0,2001,Year,University of the North,,WHITE,   2.3 Crafts/Trades Employees
+64,0.0,0,2001,Year,University of the North,,COLOURED,   2.3 Crafts/Trades Employees
+65,1.0,0,2001,Year,University of the North,,INDIAN,   2.3 Crafts/Trades Employees
+66,46.0,0,2001,Year,University of the North,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2001,Year,University of the North,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,54.0,0,2001,Year,University of the North,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,53.0,0,2001,Year,University of the North,MALE,,   2.3 Crafts/Trades Employees
+70,1.0,0,2001,Year,University of the North,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2001,Year,University of the North,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,0.0,0,2001,Year,University of the North,,WHITE,   2.4 Service\Employees
+73,0.0,0,2001,Year,University of the North,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2001,Year,University of the North,,INDIAN,   2.4 Service\Employees
+75,667.0,0,2001,Year,University of the North,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2001,Year,University of the North,,ALL OTHER,   2.4 Service\Employees
+77,667.0,0,2001,Year,University of the North,TOTAL,TOTAL,   2.4 Service\Employees
+78,298.0,0,2001,Year,University of the North,MALE,,   2.4 Service\Employees
+79,369.0,0,2001,Year,University of the North,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2001,Year,University of the North,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2001,Year,University of the North,,WHITE,3.0 Unknown
+82,0.0,0,2001,Year,University of the North,,COLOURED,3.0 Unknown
+83,0.0,0,2001,Year,University of the North,,INDIAN,3.0 Unknown
+84,0.0,0,2001,Year,University of the North,,AFRICAN,3.0 Unknown
+85,0.0,0,2001,Year,University of the North,,ALL OTHER,3.0 Unknown
+86,0.0,0,2001,Year,University of the North,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2001,Year,University of the North,MALE,,3.0 Unknown
+88,0.0,0,2001,Year,University of the North,FEMALE,,3.0 Unknown
+89,0.0,0,2001,Year,University of the North,UNKNOWN,,3.0 Unknown
+90,181.0,0,2001,Year,University of the North,,WHITE,9.9 TOTAL
+91,10.0,0,2001,Year,University of the North,,COLOURED,9.9 TOTAL
+92,12.0,0,2001,Year,University of the North,,INDIAN,9.9 TOTAL
+93,1468.0,0,2001,Year,University of the North,,AFRICAN,9.9 TOTAL
+94,0.0,0,2001,Year,University of the North,,ALL OTHER,9.9 TOTAL
+95,1671.0,0,2001,Year,University of the North,TOTAL,TOTAL,9.9 TOTAL
+96,946.0,0,2001,Year,University of the North,MALE,,9.9 TOTAL
+97,725.0,0,2001,Year,University of the North,FEMALE,,9.9 TOTAL
+98,0.0,0,2001,Year,University of the North,UNKNOWN,,9.9 TOTAL

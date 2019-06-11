@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,214.0,0,2004,Year,University of Western Cape,,WHITE,1.0 Professional Staff     -Sub-total
+1,254.0,0,2004,Year,University of Western Cape,,COLOURED,1.0 Professional Staff     -Sub-total
+2,38.0,0,2004,Year,University of Western Cape,,INDIAN,1.0 Professional Staff     -Sub-total
+3,86.0,0,2004,Year,University of Western Cape,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,592.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,320.0,0,2004,Year,University of Western Cape,MALE,,1.0 Professional Staff     -Sub-total
+7,272.0,0,2004,Year,University of Western Cape,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,192.0,0,2004,Year,University of Western Cape,,WHITE,   1.1 Instruction/Research Professional
+10,186.0,0,2004,Year,University of Western Cape,,COLOURED,   1.1 Instruction/Research Professional
+11,31.0,0,2004,Year,University of Western Cape,,INDIAN,   1.1 Instruction/Research Professional
+12,71.0,0,2004,Year,University of Western Cape,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   1.1 Instruction/Research Professional
+14,480.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,260.0,0,2004,Year,University of Western Cape,MALE,,   1.1 Instruction/Research Professional
+16,220.0,0,2004,Year,University of Western Cape,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   1.1 Instruction/Research Professional
+18,14.0,0,2004,Year,University of Western Cape,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,34.0,0,2004,Year,University of Western Cape,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,3.0,0,2004,Year,University of Western Cape,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,10.0,0,2004,Year,University of Western Cape,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,61.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,39.0,0,2004,Year,University of Western Cape,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,22.0,0,2004,Year,University of Western Cape,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,8.0,0,2004,Year,University of Western Cape,,WHITE,   1.3 Specialist/Support Professionals
+28,34.0,0,2004,Year,University of Western Cape,,COLOURED,   1.3 Specialist/Support Professionals
+29,4.0,0,2004,Year,University of Western Cape,,INDIAN,   1.3 Specialist/Support Professionals
+30,5.0,0,2004,Year,University of Western Cape,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,51.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,21.0,0,2004,Year,University of Western Cape,MALE,,   1.3 Specialist/Support Professionals
+34,30.0,0,2004,Year,University of Western Cape,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,15.0,0,2004,Year,University of Western Cape,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,523.0,0,2004,Year,University of Western Cape,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,7.0,0,2004,Year,University of Western Cape,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,60.0,0,2004,Year,University of Western Cape,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,605.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,273.0,0,2004,Year,University of Western Cape,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,332.0,0,2004,Year,University of Western Cape,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,6.0,0,2004,Year,University of Western Cape,,WHITE,   2.1 Technical Employees
+46,80.0,0,2004,Year,University of Western Cape,,COLOURED,   2.1 Technical Employees
+47,2.0,0,2004,Year,University of Western Cape,,INDIAN,   2.1 Technical Employees
+48,10.0,0,2004,Year,University of Western Cape,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   2.1 Technical Employees
+50,98.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   2.1 Technical Employees
+51,61.0,0,2004,Year,University of Western Cape,MALE,,   2.1 Technical Employees
+52,37.0,0,2004,Year,University of Western Cape,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   2.1 Technical Employees
+54,9.0,0,2004,Year,University of Western Cape,,WHITE,   2.2 Non-professional Administrative Employees
+55,329.0,0,2004,Year,University of Western Cape,,COLOURED,   2.2 Non-professional Administrative Employees
+56,4.0,0,2004,Year,University of Western Cape,,INDIAN,   2.2 Non-professional Administrative Employees
+57,35.0,0,2004,Year,University of Western Cape,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,377.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,110.0,0,2004,Year,University of Western Cape,MALE,,   2.2 Non-professional Administrative Employees
+61,267.0,0,2004,Year,University of Western Cape,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,0.0,0,2004,Year,University of Western Cape,,WHITE,   2.3 Crafts/Trades Employees
+64,25.0,0,2004,Year,University of Western Cape,,COLOURED,   2.3 Crafts/Trades Employees
+65,0.0,0,2004,Year,University of Western Cape,,INDIAN,   2.3 Crafts/Trades Employees
+66,0.0,0,2004,Year,University of Western Cape,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,25.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,24.0,0,2004,Year,University of Western Cape,MALE,,   2.3 Crafts/Trades Employees
+70,1.0,0,2004,Year,University of Western Cape,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,0.0,0,2004,Year,University of Western Cape,,WHITE,   2.4 Service\Employees
+73,89.0,0,2004,Year,University of Western Cape,,COLOURED,   2.4 Service\Employees
+74,1.0,0,2004,Year,University of Western Cape,,INDIAN,   2.4 Service\Employees
+75,15.0,0,2004,Year,University of Western Cape,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,   2.4 Service\Employees
+77,105.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,   2.4 Service\Employees
+78,78.0,0,2004,Year,University of Western Cape,MALE,,   2.4 Service\Employees
+79,27.0,0,2004,Year,University of Western Cape,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2004,Year,University of Western Cape,,WHITE,3.0 Unknown
+82,0.0,0,2004,Year,University of Western Cape,,COLOURED,3.0 Unknown
+83,0.0,0,2004,Year,University of Western Cape,,INDIAN,3.0 Unknown
+84,0.0,0,2004,Year,University of Western Cape,,AFRICAN,3.0 Unknown
+85,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,3.0 Unknown
+86,0.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2004,Year,University of Western Cape,MALE,,3.0 Unknown
+88,0.0,0,2004,Year,University of Western Cape,FEMALE,,3.0 Unknown
+89,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,3.0 Unknown
+90,229.0,0,2004,Year,University of Western Cape,,WHITE,9.9 TOTAL
+91,777.0,0,2004,Year,University of Western Cape,,COLOURED,9.9 TOTAL
+92,45.0,0,2004,Year,University of Western Cape,,INDIAN,9.9 TOTAL
+93,146.0,0,2004,Year,University of Western Cape,,AFRICAN,9.9 TOTAL
+94,0.0,0,2004,Year,University of Western Cape,,ALL OTHER,9.9 TOTAL
+95,1197.0,0,2004,Year,University of Western Cape,TOTAL,TOTAL,9.9 TOTAL
+96,593.0,0,2004,Year,University of Western Cape,MALE,,9.9 TOTAL
+97,604.0,0,2004,Year,University of Western Cape,FEMALE,,9.9 TOTAL
+98,0.0,0,2004,Year,University of Western Cape,UNKNOWN,,9.9 TOTAL

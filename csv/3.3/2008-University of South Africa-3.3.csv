@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,1278.0,0,2008,Year,University of South Africa,,WHITE,1.0 Professional Staff     -Sub-total
+1,58.0,0,2008,Year,University of South Africa,,COLOURED,1.0 Professional Staff     -Sub-total
+2,78.0,0,2008,Year,University of South Africa,,INDIAN,1.0 Professional Staff     -Sub-total
+3,709.0,0,2008,Year,University of South Africa,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2008,Year,University of South Africa,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,2123.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,998.0,0,2008,Year,University of South Africa,MALE,,1.0 Professional Staff     -Sub-total
+7,1125.0,0,2008,Year,University of South Africa,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2008,Year,University of South Africa,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,852.0,0,2008,Year,University of South Africa,,WHITE,   1.1 Instruction/Research Professional
+10,30.0,0,2008,Year,University of South Africa,,COLOURED,   1.1 Instruction/Research Professional
+11,53.0,0,2008,Year,University of South Africa,,INDIAN,   1.1 Instruction/Research Professional
+12,378.0,0,2008,Year,University of South Africa,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   1.1 Instruction/Research Professional
+14,1313.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,636.0,0,2008,Year,University of South Africa,MALE,,   1.1 Instruction/Research Professional
+16,677.0,0,2008,Year,University of South Africa,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   1.1 Instruction/Research Professional
+18,100.0,0,2008,Year,University of South Africa,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,4.0,0,2008,Year,University of South Africa,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,6.0,0,2008,Year,University of South Africa,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,50.0,0,2008,Year,University of South Africa,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,160.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,100.0,0,2008,Year,University of South Africa,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,60.0,0,2008,Year,University of South Africa,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,326.0,0,2008,Year,University of South Africa,,WHITE,   1.3 Specialist/Support Professionals
+28,24.0,0,2008,Year,University of South Africa,,COLOURED,   1.3 Specialist/Support Professionals
+29,19.0,0,2008,Year,University of South Africa,,INDIAN,   1.3 Specialist/Support Professionals
+30,281.0,0,2008,Year,University of South Africa,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,650.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,262.0,0,2008,Year,University of South Africa,MALE,,   1.3 Specialist/Support Professionals
+34,388.0,0,2008,Year,University of South Africa,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,637.0,0,2008,Year,University of South Africa,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,124.0,0,2008,Year,University of South Africa,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,49.0,0,2008,Year,University of South Africa,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,1048.0,0,2008,Year,University of South Africa,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2008,Year,University of South Africa,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,1858.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,820.0,0,2008,Year,University of South Africa,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,1038.0,0,2008,Year,University of South Africa,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2008,Year,University of South Africa,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,66.0,0,2008,Year,University of South Africa,,WHITE,   2.1 Technical Employees
+46,10.0,0,2008,Year,University of South Africa,,COLOURED,   2.1 Technical Employees
+47,7.0,0,2008,Year,University of South Africa,,INDIAN,   2.1 Technical Employees
+48,42.0,0,2008,Year,University of South Africa,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   2.1 Technical Employees
+50,125.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   2.1 Technical Employees
+51,67.0,0,2008,Year,University of South Africa,MALE,,   2.1 Technical Employees
+52,58.0,0,2008,Year,University of South Africa,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   2.1 Technical Employees
+54,490.0,0,2008,Year,University of South Africa,,WHITE,   2.2 Non-professional Administrative Employees
+55,80.0,0,2008,Year,University of South Africa,,COLOURED,   2.2 Non-professional Administrative Employees
+56,38.0,0,2008,Year,University of South Africa,,INDIAN,   2.2 Non-professional Administrative Employees
+57,741.0,0,2008,Year,University of South Africa,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,1349.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,452.0,0,2008,Year,University of South Africa,MALE,,   2.2 Non-professional Administrative Employees
+61,897.0,0,2008,Year,University of South Africa,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,72.0,0,2008,Year,University of South Africa,,WHITE,   2.3 Crafts/Trades Employees
+64,14.0,0,2008,Year,University of South Africa,,COLOURED,   2.3 Crafts/Trades Employees
+65,4.0,0,2008,Year,University of South Africa,,INDIAN,   2.3 Crafts/Trades Employees
+66,135.0,0,2008,Year,University of South Africa,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,225.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,195.0,0,2008,Year,University of South Africa,MALE,,   2.3 Crafts/Trades Employees
+70,30.0,0,2008,Year,University of South Africa,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,9.0,0,2008,Year,University of South Africa,,WHITE,   2.4 Service\Employees
+73,20.0,0,2008,Year,University of South Africa,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2008,Year,University of South Africa,,INDIAN,   2.4 Service\Employees
+75,130.0,0,2008,Year,University of South Africa,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2008,Year,University of South Africa,,ALL OTHER,   2.4 Service\Employees
+77,159.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,   2.4 Service\Employees
+78,106.0,0,2008,Year,University of South Africa,MALE,,   2.4 Service\Employees
+79,53.0,0,2008,Year,University of South Africa,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2008,Year,University of South Africa,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2008,Year,University of South Africa,,WHITE,3.0 Unknown
+82,0.0,0,2008,Year,University of South Africa,,COLOURED,3.0 Unknown
+83,0.0,0,2008,Year,University of South Africa,,INDIAN,3.0 Unknown
+84,0.0,0,2008,Year,University of South Africa,,AFRICAN,3.0 Unknown
+85,0.0,0,2008,Year,University of South Africa,,ALL OTHER,3.0 Unknown
+86,0.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2008,Year,University of South Africa,MALE,,3.0 Unknown
+88,0.0,0,2008,Year,University of South Africa,FEMALE,,3.0 Unknown
+89,0.0,0,2008,Year,University of South Africa,UNKNOWN,,3.0 Unknown
+90,1915.0,0,2008,Year,University of South Africa,,WHITE,9.9 TOTAL
+91,182.0,0,2008,Year,University of South Africa,,COLOURED,9.9 TOTAL
+92,127.0,0,2008,Year,University of South Africa,,INDIAN,9.9 TOTAL
+93,1757.0,0,2008,Year,University of South Africa,,AFRICAN,9.9 TOTAL
+94,0.0,0,2008,Year,University of South Africa,,ALL OTHER,9.9 TOTAL
+95,3981.0,0,2008,Year,University of South Africa,TOTAL,TOTAL,9.9 TOTAL
+96,1818.0,0,2008,Year,University of South Africa,MALE,,9.9 TOTAL
+97,2163.0,0,2008,Year,University of South Africa,FEMALE,,9.9 TOTAL
+98,0.0,0,2008,Year,University of South Africa,UNKNOWN,,9.9 TOTAL

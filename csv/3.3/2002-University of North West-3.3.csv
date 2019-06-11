@@ -1,0 +1,100 @@
+,OBS,DATAMARKER,TIME,TIMEUNIT,Institution,Gender,Race,Profession
+0,26.0,0,2002,Year,University of North West,,WHITE,1.0 Professional Staff     -Sub-total
+1,4.0,0,2002,Year,University of North West,,COLOURED,1.0 Professional Staff     -Sub-total
+2,16.0,0,2002,Year,University of North West,,INDIAN,1.0 Professional Staff     -Sub-total
+3,206.0,0,2002,Year,University of North West,,AFRICAN,1.0 Professional Staff     -Sub-total
+4,0.0,0,2002,Year,University of North West,,ALL OTHER,1.0 Professional Staff     -Sub-total
+5,252.0,0,2002,Year,University of North West,TOTAL,TOTAL,1.0 Professional Staff     -Sub-total
+6,153.0,0,2002,Year,University of North West,MALE,,1.0 Professional Staff     -Sub-total
+7,99.0,0,2002,Year,University of North West,FEMALE,,1.0 Professional Staff     -Sub-total
+8,0.0,0,2002,Year,University of North West,UNKNOWN,,1.0 Professional Staff     -Sub-total
+9,21.0,0,2002,Year,University of North West,,WHITE,   1.1 Instruction/Research Professional
+10,1.0,0,2002,Year,University of North West,,COLOURED,   1.1 Instruction/Research Professional
+11,13.0,0,2002,Year,University of North West,,INDIAN,   1.1 Instruction/Research Professional
+12,169.0,0,2002,Year,University of North West,,AFRICAN,   1.1 Instruction/Research Professional
+13,0.0,0,2002,Year,University of North West,,ALL OTHER,   1.1 Instruction/Research Professional
+14,204.0,0,2002,Year,University of North West,TOTAL,TOTAL,   1.1 Instruction/Research Professional
+15,125.0,0,2002,Year,University of North West,MALE,,   1.1 Instruction/Research Professional
+16,79.0,0,2002,Year,University of North West,FEMALE,,   1.1 Instruction/Research Professional
+17,0.0,0,2002,Year,University of North West,UNKNOWN,,   1.1 Instruction/Research Professional
+18,3.0,0,2002,Year,University of North West,,WHITE,   1.2 Executive/Administrative/Managerial Professionals
+19,2.0,0,2002,Year,University of North West,,COLOURED,   1.2 Executive/Administrative/Managerial Professionals
+20,2.0,0,2002,Year,University of North West,,INDIAN,   1.2 Executive/Administrative/Managerial Professionals
+21,11.0,0,2002,Year,University of North West,,AFRICAN,   1.2 Executive/Administrative/Managerial Professionals
+22,0.0,0,2002,Year,University of North West,,ALL OTHER,   1.2 Executive/Administrative/Managerial Professionals
+23,18.0,0,2002,Year,University of North West,TOTAL,TOTAL,   1.2 Executive/Administrative/Managerial Professionals
+24,11.0,0,2002,Year,University of North West,MALE,,   1.2 Executive/Administrative/Managerial Professionals
+25,7.0,0,2002,Year,University of North West,FEMALE,,   1.2 Executive/Administrative/Managerial Professionals
+26,0.0,0,2002,Year,University of North West,UNKNOWN,,   1.2 Executive/Administrative/Managerial Professionals
+27,2.0,0,2002,Year,University of North West,,WHITE,   1.3 Specialist/Support Professionals
+28,1.0,0,2002,Year,University of North West,,COLOURED,   1.3 Specialist/Support Professionals
+29,1.0,0,2002,Year,University of North West,,INDIAN,   1.3 Specialist/Support Professionals
+30,26.0,0,2002,Year,University of North West,,AFRICAN,   1.3 Specialist/Support Professionals
+31,0.0,0,2002,Year,University of North West,,ALL OTHER,   1.3 Specialist/Support Professionals
+32,30.0,0,2002,Year,University of North West,TOTAL,TOTAL,   1.3 Specialist/Support Professionals
+33,17.0,0,2002,Year,University of North West,MALE,,   1.3 Specialist/Support Professionals
+34,13.0,0,2002,Year,University of North West,FEMALE,,   1.3 Specialist/Support Professionals
+35,0.0,0,2002,Year,University of North West,UNKNOWN,,   1.3 Specialist/Support Professionals
+36,1.0,0,2002,Year,University of North West,,WHITE,2.0 Non-Professional Staff    -Sub-total
+37,2.0,0,2002,Year,University of North West,,COLOURED,2.0 Non-Professional Staff    -Sub-total
+38,4.0,0,2002,Year,University of North West,,INDIAN,2.0 Non-Professional Staff    -Sub-total
+39,440.0,0,2002,Year,University of North West,,AFRICAN,2.0 Non-Professional Staff    -Sub-total
+40,0.0,0,2002,Year,University of North West,,ALL OTHER,2.0 Non-Professional Staff    -Sub-total
+41,447.0,0,2002,Year,University of North West,TOTAL,TOTAL,2.0 Non-Professional Staff    -Sub-total
+42,243.0,0,2002,Year,University of North West,MALE,,2.0 Non-Professional Staff    -Sub-total
+43,204.0,0,2002,Year,University of North West,FEMALE,,2.0 Non-Professional Staff    -Sub-total
+44,0.0,0,2002,Year,University of North West,UNKNOWN,,2.0 Non-Professional Staff    -Sub-total
+45,0.0,0,2002,Year,University of North West,,WHITE,   2.1 Technical Employees
+46,0.0,0,2002,Year,University of North West,,COLOURED,   2.1 Technical Employees
+47,1.0,0,2002,Year,University of North West,,INDIAN,   2.1 Technical Employees
+48,19.0,0,2002,Year,University of North West,,AFRICAN,   2.1 Technical Employees
+49,0.0,0,2002,Year,University of North West,,ALL OTHER,   2.1 Technical Employees
+50,20.0,0,2002,Year,University of North West,TOTAL,TOTAL,   2.1 Technical Employees
+51,15.0,0,2002,Year,University of North West,MALE,,   2.1 Technical Employees
+52,5.0,0,2002,Year,University of North West,FEMALE,,   2.1 Technical Employees
+53,0.0,0,2002,Year,University of North West,UNKNOWN,,   2.1 Technical Employees
+54,1.0,0,2002,Year,University of North West,,WHITE,   2.2 Non-professional Administrative Employees
+55,1.0,0,2002,Year,University of North West,,COLOURED,   2.2 Non-professional Administrative Employees
+56,2.0,0,2002,Year,University of North West,,INDIAN,   2.2 Non-professional Administrative Employees
+57,158.0,0,2002,Year,University of North West,,AFRICAN,   2.2 Non-professional Administrative Employees
+58,0.0,0,2002,Year,University of North West,,ALL OTHER,   2.2 Non-professional Administrative Employees
+59,162.0,0,2002,Year,University of North West,TOTAL,TOTAL,   2.2 Non-professional Administrative Employees
+60,60.0,0,2002,Year,University of North West,MALE,,   2.2 Non-professional Administrative Employees
+61,102.0,0,2002,Year,University of North West,FEMALE,,   2.2 Non-professional Administrative Employees
+62,0.0,0,2002,Year,University of North West,UNKNOWN,,   2.2 Non-professional Administrative Employees
+63,0.0,0,2002,Year,University of North West,,WHITE,   2.3 Crafts/Trades Employees
+64,1.0,0,2002,Year,University of North West,,COLOURED,   2.3 Crafts/Trades Employees
+65,1.0,0,2002,Year,University of North West,,INDIAN,   2.3 Crafts/Trades Employees
+66,8.0,0,2002,Year,University of North West,,AFRICAN,   2.3 Crafts/Trades Employees
+67,0.0,0,2002,Year,University of North West,,ALL OTHER,   2.3 Crafts/Trades Employees
+68,10.0,0,2002,Year,University of North West,TOTAL,TOTAL,   2.3 Crafts/Trades Employees
+69,10.0,0,2002,Year,University of North West,MALE,,   2.3 Crafts/Trades Employees
+70,0.0,0,2002,Year,University of North West,FEMALE,,   2.3 Crafts/Trades Employees
+71,0.0,0,2002,Year,University of North West,UNKNOWN,,   2.3 Crafts/Trades Employees
+72,0.0,0,2002,Year,University of North West,,WHITE,   2.4 Service\Employees
+73,0.0,0,2002,Year,University of North West,,COLOURED,   2.4 Service\Employees
+74,0.0,0,2002,Year,University of North West,,INDIAN,   2.4 Service\Employees
+75,255.0,0,2002,Year,University of North West,,AFRICAN,   2.4 Service\Employees
+76,0.0,0,2002,Year,University of North West,,ALL OTHER,   2.4 Service\Employees
+77,255.0,0,2002,Year,University of North West,TOTAL,TOTAL,   2.4 Service\Employees
+78,158.0,0,2002,Year,University of North West,MALE,,   2.4 Service\Employees
+79,97.0,0,2002,Year,University of North West,FEMALE,,   2.4 Service\Employees
+80,0.0,0,2002,Year,University of North West,UNKNOWN,,   2.4 Service\Employees
+81,0.0,0,2002,Year,University of North West,,WHITE,3.0 Unknown
+82,0.0,0,2002,Year,University of North West,,COLOURED,3.0 Unknown
+83,0.0,0,2002,Year,University of North West,,INDIAN,3.0 Unknown
+84,0.0,0,2002,Year,University of North West,,AFRICAN,3.0 Unknown
+85,0.0,0,2002,Year,University of North West,,ALL OTHER,3.0 Unknown
+86,0.0,0,2002,Year,University of North West,TOTAL,TOTAL,3.0 Unknown
+87,0.0,0,2002,Year,University of North West,MALE,,3.0 Unknown
+88,0.0,0,2002,Year,University of North West,FEMALE,,3.0 Unknown
+89,0.0,0,2002,Year,University of North West,UNKNOWN,,3.0 Unknown
+90,27.0,0,2002,Year,University of North West,,WHITE,9.9 TOTAL
+91,6.0,0,2002,Year,University of North West,,COLOURED,9.9 TOTAL
+92,20.0,0,2002,Year,University of North West,,INDIAN,9.9 TOTAL
+93,646.0,0,2002,Year,University of North West,,AFRICAN,9.9 TOTAL
+94,0.0,0,2002,Year,University of North West,,ALL OTHER,9.9 TOTAL
+95,699.0,0,2002,Year,University of North West,TOTAL,TOTAL,9.9 TOTAL
+96,396.0,0,2002,Year,University of North West,MALE,,9.9 TOTAL
+97,303.0,0,2002,Year,University of North West,FEMALE,,9.9 TOTAL
+98,0.0,0,2002,Year,University of North West,UNKNOWN,,9.9 TOTAL
