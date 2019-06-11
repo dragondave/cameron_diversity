@@ -1,7 +1,9 @@
 from databaker.framework import *
 import sa_walk
+import feather
 
-files = [x for x in sa_walk.SA_files() if x.table=="3.3"]
+table = "3.3"
+files = [x for x in sa_walk.SA_files() if x.table==table]
 
 for year, _, filename in files:
     YEAR = int(year)
@@ -34,5 +36,8 @@ for year, _, filename in files:
 
         c1 = ConversionSegment(observations, dimensions)
 
-        print(c1.topandas())
-
+        df = c1.topandas()
+        ins = institution.replace(":", "_").replace("/", "_").replace("\\", "_")
+        feather.write_dataframe(df, f"feather/{YEAR}-{ins}-{table}.feather") # TODO won't get all!
+        df.to_csv(f"csv/{YEAR}-{ins}-{table}.csv", header=True)
+        print(df)

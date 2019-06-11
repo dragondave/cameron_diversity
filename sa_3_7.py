@@ -1,7 +1,9 @@
 from databaker.framework import *
 import sa_walk
-
-files = [x for x in sa_walk.SA_files() if x.table=="3.7"]
+import re
+import feather
+table = "3.7"
+files = [x for x in sa_walk.SA_files() if x.table==table]
 
 for year, _, filename in files:
     try:
@@ -11,7 +13,7 @@ for year, _, filename in files:
     # path=f"data/raw/South Africa Staff Tables_raw/{YEAR} Staff tables for Universities/{YEAR} Table 3.3 for Universities.xls"
 
     for tab in loadxlstabs(filename, "*", verbose = False):
-        institution = tab.filter_one(lambda cell: cell.x==0 and cell.y==0).value
+        institution = tab.filter_one(re.compile("INSTITUTION: .*")).value
         if not institution:  # Further tidying required -- INSTITUTION: H09 (UNIVERSITY OF LIMPOPO)
             institution = "National"
         else:
@@ -34,6 +36,9 @@ for year, _, filename in files:
         ]
 
         c1 = ConversionSegment(observations, dimensions)
+        df = c1.topandas()
 
+        ins = institution.replace(":", "_").replace("/", "_").replace("\\", "_")
+        feather.write_dataframe(df, f"feather/{YEAR}-{ins}-{table}.feather") # TODO won't get all!
+        df.to_csv(f"csv/{YEAR}-{ins}-{table}.csv", header=True)
         print(c1.topandas())
-
