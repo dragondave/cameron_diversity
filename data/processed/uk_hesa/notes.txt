@@ -1,0 +1,1 @@
+These are table 19b from data/raw/uk_hesa/HESA_Resources_199* processed using PDFTables.com with the default settings
