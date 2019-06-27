@@ -19,4 +19,14 @@ def SA_files():
                 continue
             yield File(year, table, filename)
 
+def AU_files():
+    path = "data/raw/AU_indigenous_raw"
+    for directory, directories, files in os.walk(path):
+        for file in files:
+            filename = Path(directory) / Path(file)
+            year = file[:4]
+            if year == "AU_i": continue
+            yield File(year, "*", filename)
+    
+
 #print (list(SA_files()))

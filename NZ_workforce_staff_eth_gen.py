@@ -20,6 +20,7 @@ dimensions = [
     HDimConst(TIME, 0),
     HDim(institution, "Institution", CLOSEST, ABOVE),
     HDim(profession, "Profession", CLOSEST, ABOVE),
+    HDimConst("IsAcademic", "Academic"),
     HDim(race, "Race", DIRECTLY, LEFT),
     HDim(gender, "Gender", DIRECTLY, ABOVE),
 #    HDim(fte, "fte", CLOSEST, LEFT),
