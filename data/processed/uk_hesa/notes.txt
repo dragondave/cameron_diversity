@@ -1,1 +1,2 @@
-These are table 19b from data/raw/uk_hesa/HESA_Resources_199* processed using PDFTables.com with the default settings
+Mostly, these are table 19b from data/raw/uk_hesa/HESA_Resources_199* processed using PDFTables.com with the default settings
+Howver, the 2001 data is converted from CSV to XLS format via LibreOffice
